@@ -1,4 +1,4 @@
-# 🛒 Projeto de Análise de Dados Completo — Comportamento do Cliente e Tendências de Compras
+# 🛒 Projeto de Análise de Dados Completo — Comportamento de Clientes e Tendências de Compras
 
 **Python • SQL • Looker Studio • Data Cleaning • EDA • Dashboard**
 
