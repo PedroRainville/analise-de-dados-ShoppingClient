@@ -2,7 +2,7 @@
 
 **Python • SQL • Looker Studio • Data Cleaning • EDA • Dashboard**
 
-Este projeto é um exemplo completo de um fluxo de trabalho real de análise de dados — exatamente como ocorre em empresas. Ele cobre todas as etapas essenciais: desde a exploração e preparação de dados, passando por consultas SQL para análises profundas, até a criação de um dashboard interativo para visualização de insights de negócio.
+Este projeto é um exemplo completo de um fluxo de trabalho real de análise de dados — exatamente como ocorre em empresas. Ele cobre todas as etapas essenciais: desde a exploração e preparação de dados, passando por consultas SQL para análises profundas, até a criação de um dashboard interativo para visualização de insights de negócio. 
 
 Foi utilizado um dataset de 3.900 compras contendo informações detalhadas sobre clientes, produtos, comportamento de compra, recorrência, assinaturas e preferências de consumo. O objetivo foi transformar dados brutos em um conjunto robusto de insights estratégicos, organizados de forma clara e visual.
 
