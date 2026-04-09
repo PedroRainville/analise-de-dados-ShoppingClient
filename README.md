@@ -1,4 +1,4 @@
-# 🛒 Projeto de Análise de Dados Completo — Comportamento de Clientes e Tendências de Compras
+#  Projeto de Análise de Dados Completo — Comportamento de Clientes e Tendências de Compras
 
 **Python • SQL • Looker Studio • Data Cleaning • EDA • Dashboard**
 
@@ -6,7 +6,7 @@ Este projeto é um exemplo completo de um fluxo de trabalho real de análise de 
 
 Foi utilizado um dataset de 3.900 compras contendo informações detalhadas sobre clientes, produtos, comportamento de compra, recorrência, assinaturas e preferências de consumo. O objetivo foi transformar dados brutos em um conjunto robusto de insights estratégicos, organizados de forma clara e visual.
 
-## 🎯 O que foi feito neste projeto
+##  O que foi feito neste projeto
 
 Este é um projeto end-to-end completo, pensado e alinhado ao que empresas esperam de um analista de dados.
 
@@ -62,7 +62,7 @@ Todo o processo foi documentado de forma clara e organizada, simulando um relat�
 - → Resultados e conclusões
 - → Possíveis ações estratégicas
 
-## 📦 Sobre o Dataset
+##  Sobre o Dataset
 
 O dataset possui 3.900 linhas e 18 colunas, incluindo:
 
@@ -78,7 +78,7 @@ O dataset possui 3.900 linhas e 18 colunas, incluindo:
 
 Essa variedade permite análises profundas de comportamento do consumidor, preferências e padrões de compra.
 
-## 🎲 Sobre o Projeto.
+##  Sobre o Projeto.
 
 Este projeto retrada como os analistas de dados realmente trabalham.
 
